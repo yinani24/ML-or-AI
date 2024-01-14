@@ -1,5 +1,7 @@
 # Tracking ML Learning
 
+This is just a learning area to keep track of my progress in Ml/AI
+
 ## Video Links
 [Basics of Pytorch](https://colab.research.google.com/drive/1qRY6VEp0YSJTmM49a68P434GTNsQ98x9?authuser=1#scrollTo=UbgpYRitBhz0)
 
